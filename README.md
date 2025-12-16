@@ -2,6 +2,8 @@
 
 C'est un twitch booster fait en .bat .vbs, qui est fun à faire et c'est garanti safe.
 
+Ca reprend les mimics du vrai virus en mode le text to speech, le melter, la même musique, les erreur, le redémarrage du pc sauf la destruction de windows. (flemme de détruire les pc des gens)
+
 Voila.
 
 # Truc qui vient pas de moi
