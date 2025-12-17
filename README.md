@@ -24,7 +24,7 @@ Voila. (le nom c'est en mode Jul, le J c'est les S etc...)
 	> Ne vient pas de moi, mais fait un effet de melt sur l’écran et ne peut pas être fermé sauf en utilisant le gestionnaire des tâches.
 
 * issou.mp3
-	> si tu connais pas vraiment va te faire
+	> si tu connais pas vraiment va te faire (j'abuse)
 
 # Truc qui vient pas de moi
 
