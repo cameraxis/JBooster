@@ -6,10 +6,25 @@ Ca reprend les mimics du vrai virus en mode le text to speech, le melter, la mê
 
 Voila. (le nom c'est en mode Jul, le J c'est les S etc...)
 
+# Explication du "code"
+
+* main.bat
+	> C’est lui qui exécute les autres fichiers et qui a les paramètres de timer entre chaque exécution de fichier.
+
+* voicetts.vbs
+	> C’est de là que vient le text-to-speech.
+
+* message_box.vbs
+	> Il contient la pop-up.
+
+* executable.vbs
+	> Il exécute le ***message_box.vbs*** un nombre de fois demandé.
+
+* melter.exe
+	> Ne vient pas de moi, mais fait un effet de melt sur l’écran et ne peut pas être fermé sauf en utilisant le gestionnaire des tâches.
+
 # Truc qui vient pas de moi
 
 https://github.com/weyh/screen-melter/
 
 https://www.youtube.com/watch?v=9ojsI93X6bg
-
-L'image je sais pas d'ou elle viens sorry.
