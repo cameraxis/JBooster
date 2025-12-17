@@ -1,1 +1,0 @@
-MsgBox "Aye, coup dur pour Guillaume", 16, "Erreur"
